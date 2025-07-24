@@ -1,5 +1,5 @@
-## Author: Dylan
-## Date: 2024-06-10
+## Author: Dylan Bagwell
+## Date: 28/06/2025
 ## Version: 1.0.0
 ## Description: This program provides an interface for the Powerball program that utilizes a java 2D animation to display randomly selected powerball numbers for lottery tickets.
 
